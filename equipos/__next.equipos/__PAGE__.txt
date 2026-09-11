@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+3:I[14029,["/rfi-prototipo/_next/static/chunks/0_v4ahyrfcqgu.js","/rfi-prototipo/_next/static/chunks/04_zy0_hg72m..js","/rfi-prototipo/_next/static/chunks/13bkr5ldnlk1l.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"CE3HOJEzhHPUOwoLtiA4O"}
+5:null
+2:E{"digest":"NEXT_REDIRECT;replace;/tienda;307;"}
